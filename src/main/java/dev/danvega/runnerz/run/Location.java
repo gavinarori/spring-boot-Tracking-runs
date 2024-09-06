@@ -1,4 +1,4 @@
-package dev.gavinarori.restapi.run;
+package dev.danvega.runnerz.run;
 
 public enum Location {
     INDOOR,
